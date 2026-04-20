@@ -1,9 +1,10 @@
 ### Hi there 👋
-- I am Chepkemoi Judy Rop . 
+- I am Chepkemoi Judy Rop. 
 - Dedicated and passionate software developer.
+- 👯 I’m looking to learn something on data science.
 - 📫 How to reach me📧judyrop97@gmail.com
 - 😄 Pronouns: ..She/Her
-- ⚡ Fun fact: You become a pro by coding everyday ✨
+- ⚡ Fun fact: When I’m not coding, I’m probably watching a good series ✨
 <!--
 **judyrop/judyrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
